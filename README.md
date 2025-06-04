@@ -1,4 +1,4 @@
 # My AI Project
 This project is part of the Building AI cycle.
-Summary ##
-هذا المشروع يهدف إلى تصنيف الحيوانات (كلب أو قط) باستخدام خصائص مثل الطول والوزن والطول الكلي. يعتمد المشروع على شبكة عصبية بسيطة ويعد تطبيقًا عمليًا لما تعلمته في الدورة.
+## Summary 
+This project aims to classify animals (dog or cat) using characteristics such as height, weight, and total length. The project is based on a simple neural network and is a practical application of what I learned in the course..
